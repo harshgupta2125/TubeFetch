@@ -1,7 +1,0 @@
-ffmpeg
-yt_dlp
-streamlit
-shutil
-pathlib
-typing
-subprocess
